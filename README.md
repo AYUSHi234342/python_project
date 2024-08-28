@@ -31,8 +31,7 @@ Check out my journey of creating this game on [Medium]
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AYUSHi234342/python_project.git
+   [Your Link Here](https://github.com/AYUSHi234342/python_project/blob/main/game.py)
 Navigate to the project directory:
 
 
