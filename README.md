@@ -21,7 +21,8 @@ A classic Space Invader game developed using Python and Pygame. This game challe
 Welcome to the Space Invader game! This project was created using Visual Studio Code, Python, and Pygame. 
 The objective is to destroy all the enemies before they reach the bottom of the screen. The game starts off easy but becomes more challenging as you progress, providing an exciting experience for players.
 
-Check out my journey of creating this game on [Medium] (https://medium.com/@ayushiakriti09/leveling-up-my-journey-in-building-a-space-invader-game-7305cdf805b6(URL))
+Check out my journey of creating this game on [Medium]
+[Your Link Here](https://medium.com/@ayushiakriti09/leveling-up-my-journey-in-building-a-space-invader-game-7305cdf805b6)
 
 ---
 
